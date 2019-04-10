@@ -1,0 +1,75 @@
+/* .box {
+    height:100px;
+    width:200px;
+    border: 1x solid black;
+
+}
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear-left {
+    clear: left;
+}
+
+.clear-right{
+    clear:right;
+}
+
+.clear-both {
+    clear:both;
+} */
+body{
+    margin:0;
+}
+
+.main-nav{
+height:75px;
+background-color: grey;
+}
+
+.logo {
+    height:56px;
+    padding:10px;
+}
+.nav-list{
+    float: right;
+}
+
+li{
+    color:white;
+    float:left;
+    padding: 14px 16px;
+    list-style-type:none;
+}
+.center{
+    text-align: center;
+}
