@@ -47,6 +47,7 @@ body {
     }
     .content{
         height: 75vh;
+        padding-left:30%;
     }
     footer {
     background-color:orange;
@@ -65,4 +66,5 @@ body {
     iframe {
         height:450px;
         width:530px;
+        /* padding-left:30%; */
     }
