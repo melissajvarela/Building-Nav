@@ -45,3 +45,19 @@ body {
     .logo:hover{
         height:66px;
     }
+    .content{
+        height: 75vh;
+    }
+    footer {
+    background-color:orange;
+    }
+
+    .social-media{
+        height:50px;
+        margin-bottom:0;
+    }
+
+    a {
+        color: #00ffcc;
+        text-decoration: none;
+    }
