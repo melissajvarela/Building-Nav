@@ -50,6 +50,46 @@ body {
         height: 160vh;
         padding-left:30%;
     }
+
+ .nav-list{
+     float:right;
+ }
+
+
+ .button {
+    font-size:24px;
+    padding:10px;
+    border-radius:10px;
+}
+
+
+ .button-success{
+   
+    border: 1px solid #808080;
+    
+    background:#ffe6b3;
+    
+}
+
+.button-default {
+    background:orange;
+    color:#cc00cc;
+}
+
+.button-danger{
+    background:red;
+    color:white;
+    border:none;
+}
+
+.button-large {
+    width:250px;
+}
+
+.button-small {
+    width:150px;
+}
+
     footer {
     background-color:orange;
     }
