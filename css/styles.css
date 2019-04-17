@@ -90,6 +90,25 @@ body {
     width:150px;
 }
 
+
+span{
+    background-color:#9966ff;
+}
+
+
+.family > span {
+    background-color: #99d6ff;
+
+}
+
+.second-span ~ .first-span {
+    color:red;
+}
+
+ul.social-media>li {
+    padding: 20px 24px;
+}
+
     footer {
     background-color:orange;
     }
