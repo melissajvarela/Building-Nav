@@ -27,6 +27,7 @@ body {
     }
     .center{
         text-align: center;
+        
     } 
     
     .nav-list {
@@ -34,7 +35,7 @@ body {
      list-style-type:none;
     }
     li{
-        color:#00ffcc;
+        color:#ffe6b3;
         float:left;
         padding: 14px 16px;
     }
@@ -46,7 +47,7 @@ body {
         height:66px;
     }
     .content{
-        height: 75vh;
+        height: 160vh;
         padding-left:30%;
     }
     footer {
@@ -59,7 +60,7 @@ body {
     }
 
     a {
-        color: #00ffcc;
+        color: #ffe6b3;
         text-decoration: none;
     }
 
